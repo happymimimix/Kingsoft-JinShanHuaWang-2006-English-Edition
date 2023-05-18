@@ -3,7 +3,7 @@
 ### Note: This project is incomplete, many strings may leave un translated. Just keep that in mind. 
 
 
-### Description: | 简介：
+## Description: | 简介：
 
 ##### 金山画王是史上界面最美观的绘画软件！可惜它却在2006年停更了。
 ##### Fly2006 is the painting software that has the most beautiful interface design in the world! But it stoped upadting in year 2006. 
