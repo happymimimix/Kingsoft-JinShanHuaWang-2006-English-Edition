@@ -1,0 +1,2 @@
+# Fly2006_Mirror.Site__JinShanHuaWang2006
+金山画王2006原版软件镜像地址
