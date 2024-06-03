@@ -1,4 +1,4 @@
-# JingShanHuaWang 2006 English Edition | 金山画王2006英文版
+# JinShanHuaWang 2006 English Edition | 金山画王2006英文版
 
 ## Description: | 简介：
 
