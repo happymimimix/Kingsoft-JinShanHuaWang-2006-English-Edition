@@ -1,7 +1,4 @@
-## Fly2006 English Translation | 金山画王2006英文版  (Work In Progress)
-
-### Note: This project is incomplete, many strings may leave un translated. Just keep that in mind. 
-
+## Fly2006 English Translation | 金山画王2006英文版
 
 ## Description: | 简介：
 
