@@ -1,4 +1,4 @@
-## Fly2006 English Translation | 金山画王2006英文版
+# JingShanHuaWang 2006 English Edition | 金山画王2006英文版
 
 ## Description: | 简介：
 
